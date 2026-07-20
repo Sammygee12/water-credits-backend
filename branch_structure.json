@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-18-governance-vote-race",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-18-governance-vote-race": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-18-governance-vote-race",
+    "origin"
+  ]
+}
